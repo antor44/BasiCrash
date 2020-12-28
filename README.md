@@ -3,8 +3,9 @@ BasiCrash MSX Basic game, only text mode (SCREEN 0)
 .
 Requirements:
 
--MSX 1/2/2+ with Europe or USA BIOS
--or MSX turb R adding this Basic line:
+-MSX 1/2/2+ Europe or USA BIOS
+
+-or MSX turb R Europe or USA BIOS adding this Basic line:
 
 5 DEFUSR=39+PEEK(-2385)+PEEK(-2384)*256:IFUSR(0)THENLINE>0COPY0&H80F6OR384ALLYOURBASEAREBELONGTOUS!
 
