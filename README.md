@@ -1,6 +1,7 @@
 # BasiCrash
 BasiCrash MSX Basic game, only text mode (SCREEN 0)
 
+.
 
 basicrash0.bas: basic version with VPOKE/VPEEK, less than 1 Kbyte
 
