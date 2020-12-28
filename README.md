@@ -1,4 +1,4 @@
-# basicrash
+# BasiCrash
 BasiCrash MSX Basic game, only text mode (SCREEN 0)
 
 
