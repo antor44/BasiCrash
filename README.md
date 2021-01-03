@@ -19,11 +19,11 @@ basicrash0.bas: basic version with VPOKE/VPEEK, less than 1 Kbyte
 
 basicrash1.bas: basic version with arrays, more compatible with other BASIC
 
-basicrash2.bas: basic version with VPOKE/VPEEK and arrays for MSX 1
+basicrash2.bas: basic version with VPOKE/VPEEK and arrays
 
-basicrash3.bas: enhanced version for MSX
+basicrash3.bas: enhanced version
 
-basicrash4.bas: enhanced version with lives and extra lives for MSX 1
+basicrash4.bas: enhanced version with lives and extra lives
 
 
 basicras.bas: version 4 MSX Basic tokenized
