@@ -1,12 +1,12 @@
 # BasiCrash
 BasiCrash MSX Basic game, only text mode (SCREEN 0)
 .
+Game buttons: 
+Up/DOWN - move, Enter - play or restart
+.
 Requirements:
 
 -MSX 1/2/2+ Europe or USA BIOS
-
-Game buttons: 
-Up/DOWN - move, Enter - play or restart
 
 
 For MSX turbo R Europe or USA BIOS adding this Basic line:
