@@ -1,12 +1,13 @@
 # BasiCrash
 
-   ___            __              
-- | o ) _   _ () / _| _  _   _ ||
-- | o \/o\ (c'||( (_ /_|/o\ (c'| \
-- |___/\_,]\_)L| \__|L| \_,]\_)Ln|
+
+            ___            __              
+           | o ) _   _ () / _| _  _   _ || 
+           | o \/o\ (c'||( (_ /_|/o\ (c'| \
+           |___/\_,]\_)L| \__|L| \_,]\_)Ln|
 
 
-BasiCrash MSX Basic game, only text mode (SCREEN 0)
+BasiCrash is a MSX Basic game, only text mode (SCREEN 0)
 
 
 Game buttons: 
