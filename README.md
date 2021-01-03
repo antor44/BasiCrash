@@ -24,7 +24,7 @@ basicrash4.bas: enhanced version with lives and extra lives for MSX 1
 
 basicras.bas: version 4 MSX Basic tokenized
 
-BasiCr.cas: version 4 CAS file
+BasiCrash: version 4 CAS file
 
 BasiCrash.rom: version 4 Basic ROM file
 
