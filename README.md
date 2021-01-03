@@ -1,4 +1,11 @@
 # BasiCrash
+
+    ___            __              
+   | o ) _   _ () / _| _  _   _ || 
+   | o \/o\ (c'||( (_ /_|/o\ (c'| \
+   |___/\_,]\_)L| \__|L| \_,]\_)Ln|
+
+
 BasiCrash MSX Basic game, only text mode (SCREEN 0)
 
 
@@ -23,7 +30,7 @@ basicrash1.bas: basic version with arrays, more compatible with other BASIC
 
 basicrash2.bas: basic version with VPOKE/VPEEK and arrays
 
-basicrash3.bas: enhanced version
+basicrash3.bas: enhanced version, more specialized MSX Basic instructions
 
 basicrash4.bas: enhanced version with lives and extra lives
 
