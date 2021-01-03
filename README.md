@@ -7,7 +7,7 @@
            |___/\_,]\_)L| \__|L| \_,]\_)Ln|
 
 
-BasiCrash is a MSX Basic game, only text mode (SCREEN 0)
+BasiCrash is a free MSX Basic game, a new old school arcade game developed with default Basic, no assembly, and in monochrome text mode (SCREEN 0). 
 
 
 Game buttons: 
