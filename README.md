@@ -25,20 +25,20 @@ For MSX turbo R Europe or USA BIOS add this Basic line:
 
 .
 
-basicrash0.bas: basic version with VPOKE/VPEEK, less than 1 Kbyte
+basicra0.bas: basic version with VPOKE/VPEEK, less than 1 Kbyte
 
-basicrash1.bas: basic version with arrays, more compatible with other BASIC
+basicra1.bas: basic version with arrays, more compatible with other BASIC
 
-basicrash2.bas: basic version with VPOKE/VPEEK and arrays
+basicra2.bas: basic version with VPOKE/VPEEK and arrays
 
-basicrash3.bas: enhanced version, more specialized MSX Basic instructions
+basicra3.bas: enhanced version, more specialized MSX Basic instructions
 
-basicrash4.bas: enhanced version with lives and extra lives
+basicra4.bas: enhanced version with lives and extra lives
 
 
 basicras.bas: version 4 MSX Basic tokenized
 
-BasiCrash: version 4 CAS file
+basicr.cas: version 4 CAS file
 
-BasiCrash.rom: version 4 Basic ROM file
+basicras.rom: version 4 Basic ROM file
 
