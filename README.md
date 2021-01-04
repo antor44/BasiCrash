@@ -40,5 +40,5 @@ basicras.bas: version 4 MSX Basic tokenized
 
 basicr.cas: version 4 CAS file
 
-basicras.rom: version 4 Basic ROM file
+basicras.rom: version 4 ROM file (MSX Basic)
 
