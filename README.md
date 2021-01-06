@@ -8,6 +8,7 @@
 
 BasiCrash is a free MSX Basic game, a new old school arcade game developed with default Basic, no assembly, and in text mode (monochrome or SCREEN 0).
 
+How to Play: The player controls the ship, who must eat all the balls inside a two-dimensional universe enclosed while avoiding nazi's bombs. Extra ships every 500 points. Bonus Stage gives 10 points per ball, no lives lost.  
 
 Game buttons: 
 Up/DOWN - move, Enter - play or restart
@@ -39,5 +40,5 @@ basicras.bas: version 4 MSX Basic tokenized
 
 basicr.cas: version 4 CAS file
 
-basicras.rom: version 4 ROM file (MSX Basic)
+basicras.rom: version 4 ROM file (MSX Basic is required)
 
