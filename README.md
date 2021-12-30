@@ -8,7 +8,7 @@
 
 BasiCrash is a free MSX Basic game, a new old school arcade game developed with default Basic, no assembly, and in text mode (monochrome or SCREEN 0).
 
-How to Play: The player controls a ship, who must eat all the Spheres inside a two-dimensional universe enclosed while avoiding bombs left by Nazi extraterrestrials. Extra ships every 500 points. Bonus Stage gives 10 points per Sphere, no lives lost. 
+How to Play: The player controls a ship, which must eat all the Spheres inside a two-dimensional universe enclosed while avoiding bombs left by Nazi extraterrestrials. Extra ships every 500 points. Bonus Stage gives 10 points per Sphere, no lives lost. 
 
 Game buttons: 
 Up/DOWN - move, Enter - play or restart
