@@ -13,6 +13,11 @@ How to Play: The player controls a ship, which must eat all the Spheres inside a
 Game buttons: 
 Up/DOWN - move, Enter - play or restart
 
+Play online:
+https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/BasiCrash/raw/main/basicras.rom
+
+Repository for downloads:
+https://github.com/antor44/BasiCrash
 
 Requirements:
 
