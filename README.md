@@ -6,6 +6,13 @@
            | o \/o\ (c'||( (_ /_|/o\ (c'| \
            |___/\_,]\_)L| \__|L| \_,]\_)Ln|
 
+
+
+
+https://user-images.githubusercontent.com/33932744/235205492-ac842d3e-7d55-48c2-a695-cb45b57f426c.mp4
+
+
+#
 ![Screenshot](https://github.com/antor44/BasiCrash/blob/main/BasiCrash.png)
 
 
@@ -32,8 +39,6 @@ Requirements:
 For MSX turbo R Europe or USA BIOS add this Basic line:
 
 5 DEFUSR=39+PEEK(-2385)+PEEK(-2384)*256:IFUSR(0)THENLINE>0COPY0&H80F6OR384ALLYOURBASEAREBELONGTOUS!
-#
-![Video](https://github.com/antor44/BasiCrash/blob/main/BasiCrash.mp4)
 
 #
 
