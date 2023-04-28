@@ -32,8 +32,10 @@ Requirements:
 For MSX turbo R Europe or USA BIOS add this Basic line:
 
 5 DEFUSR=39+PEEK(-2385)+PEEK(-2384)*256:IFUSR(0)THENLINE>0COPY0&H80F6OR384ALLYOURBASEAREBELONGTOUS!
+#
+![Video](https://github.com/antor44/BasiCrash/blob/main/BasiCrash.mp4)
 
-.
+#
 
 basicra0.bas: basic version with VPOKE/VPEEK, less than 1 Kbyte
 
